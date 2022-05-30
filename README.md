@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zahidchoudhury
+- 👀 I’m interested in Data Engineering, Data Analytics and Programming 
+- 🌱 I’m currently learning Big Data Engineering
+- 📫 You can reach me by mzahidcy@gmail.com

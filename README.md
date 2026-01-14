@@ -14,3 +14,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zahidchoudhury&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![Followers](https://img.shields.io/github/followers/zahidchoudhury?style=social)
+![Stars](https://img.shields.io/github/stars/zahidchoudhury?style=social)
+![Repos](https://img.shields.io/badge/Public%20Repos-13-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=zahidchoudhury&color=blue)

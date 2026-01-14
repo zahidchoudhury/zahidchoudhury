@@ -19,4 +19,4 @@
 ![Followers](https://img.shields.io/github/followers/zahidchoudhury?style=social)
 ![Stars](https://img.shields.io/github/stars/zahidchoudhury?style=social)
 ![Repos](https://img.shields.io/badge/Public%20Repos-13-blue)
-![RecentViews](https://komarev.com/ghpvc/?username=zahidchoudhury&color=blue)
+![Recent Views](https://komarev.com/ghpvc/?username=zahidchoudhury&color=blue)

@@ -21,3 +21,4 @@
 ![Repos](https://img.shields.io/badge/Public%20Repos-13-blue)
 ![Recent Views](https://komarev.com/ghpvc/?username=zahidchoudhury&color=blue&label=Recent%20Views)
 [![F4F](https://img.shields.io/badge/F4F-blue)](https://github.com/zahidchoudhury)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/md.zahid.choudhury)
